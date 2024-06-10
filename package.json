@@ -1,0 +1,14 @@
+{
+  "name": "expressjspractice",
+  "version": "1.0.0",
+  "description": "This is my attempt to revise my express js skill which I had one 1 year ago with the help of youtube  and chatgpt Today is 10/06/2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
